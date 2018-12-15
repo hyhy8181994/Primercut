@@ -1,7 +1,7 @@
 # Primercut 
 *version 0.1*
 
-A simple python script to cut the primers (forward and reverse) from input fasta file. The input primer can have ambiguous base (M and N). If the program does not detect the primers in the first 50 bases and last 50 bases of sequence with selected matching criteria, it will discharge the sequence to unk file.  
+A simple python script to cut the primers (forward and reverse) from input fasta file. The input primer can have ambiguous base (M and N). If the program does not detect the primers in the first 50 bases and last 50 bases of sequence with selected matching criteria, it will discharge the sequence to unk file. 
 
 
 ## Options
